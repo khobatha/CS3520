@@ -1,0 +1,36 @@
+# Build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.bin
+*.class
+
+# C/C++ build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Python cache files, in case scripts are added later
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# JavaScript dependencies, in case web examples are added later
+node_modules/
+dist/
+
+# Editor and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+
