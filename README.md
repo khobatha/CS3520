@@ -38,6 +38,10 @@ Students should fork this repository, clone their fork, and use it to run, modif
    git merge upstream/main
    ```
 
+## Editor Setup
+
+For VS Code, install the recommended workspace extension when prompted. The repository recommends RISC-V syntax highlighting and associates `.s`, `.S`, `.asm`, and `.riscv` files with the RISC-V language mode.
+
 ## Working With Examples
 
 Each example should live in its own folder and include a short `README.md` explaining:
@@ -67,4 +71,5 @@ examples/
 
 ## Current Material
 
+- `examples/2026/hello-world-assembly`: RISC-V assembly hello world example.
 - `examples/2026/prime-reversible-squares`: starter files for the prime reversible squares example.

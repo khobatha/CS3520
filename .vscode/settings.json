@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.s": "riscv",
+    "*.S": "riscv",
+    "*.asm": "riscv",
+    "*.riscv": "riscv"
+  }
+}
